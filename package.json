@@ -1,0 +1,8 @@
+{
+    "name": "patchwork-hello-world",
+    "repository": "https://github.com/sourcelair-blueprints/patchwork-hello-world",
+    "scripts": {
+        "preinstall": "npm install -g gfms@0.0.12",
+        "start": "gfms --port 3000 --host 0.0.0.0"
+    }
+}
