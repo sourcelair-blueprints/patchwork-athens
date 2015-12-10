@@ -1,2 +1,3 @@
-# patchwork-hello-world
-Hello world for Athens' GitHub Patchwork event
+# Athens Patchwork Hello World
+
+This repository will hold a list of startups that are located in downtown Athens.
